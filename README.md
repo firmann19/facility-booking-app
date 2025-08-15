@@ -41,7 +41,7 @@ This app allows users to view available facilities, make bookings, and track the
 ### Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/firmann19/facility-booking-app.git
 cd facility-book-app
 yarn install
 Running the App
@@ -53,8 +53,4 @@ Run on an emulator/simulator (iOS / Android).
 
 Demo
 ![Demo](./assets/Demo/facility-booking-app.gif)
-
-Booking Detail Screen – View booking details and edit if not completed.
-
-History Screen – Displays all previous bookings.
 
