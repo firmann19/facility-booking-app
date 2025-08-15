@@ -9,6 +9,14 @@ This app allows users to view available facilities, make bookings, and track the
 
 ---
 
+## Demo
+
+Demo
+![Demo](/assets/Demo/facility-booking-app.gif)
+
+
+---
+
 ## Features
 
 - **Facility List**: View all available facilities with details such as name, capacity, and image.
@@ -38,7 +46,13 @@ This app allows users to view available facilities, make bookings, and track the
 - Yarn or npm
 - Expo CLI (`npm install -g expo-cli`)
 
+---
+
+## Setup / Installation
+
+
 ### Installation
+
 
 ```bash
 git clone https://github.com/firmann19/facility-booking-app.git
@@ -50,7 +64,4 @@ npx expo star
 Scan the QR code using Expo Go on your mobile device, or
 
 Run on an emulator/simulator (iOS / Android).
-
-Demo
-![Demo](/assets/Demo/facility-booking-app.gif)
 
