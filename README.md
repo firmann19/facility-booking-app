@@ -11,8 +11,7 @@ This app allows users to view available facilities, make bookings, and track the
 
 ## Demo
 
-Demo
-![Demo](/assets/Demo/facility-booking-app.gif)
+![Demo GIF](./assets/Demo/facility-booking-app.gif)
 
 
 ---
