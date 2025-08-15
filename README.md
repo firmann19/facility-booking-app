@@ -52,5 +52,5 @@ Scan the QR code using Expo Go on your mobile device, or
 Run on an emulator/simulator (iOS / Android).
 
 Demo
-![Demo](./assets/Demo/facility-booking-app.gif)
+![Demo](/assets/Demo/facility-booking-app.gif)
 
